@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MireaProject</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_news">News</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu_browser">Browser</string>
+    <string name="NK">Николай Королёв</string>
+    <string name="mail">korolev.n.y@edu.mirea.ru</string>
+    <string name="mitsubishi_motors_mitsubishi_l200"><![CDATA[21 марта на автомобильной выставке в Бангкоке (Таиланд) Mitsubishi Motors впервые показала среднеразмерный рамный пикап Mitsubishi L200 / Mitsubishi Triton нового поколения.  Презентацию нельзя назвать полноценной, в продажу машина начнет поступать не раньше конца весны, а на выставке экспонировался фактически промышленный образец под вывеской концептуального автомобиля Mitsubishi Concept XRT. Кроме того, автопроизводитель пока не раскрывает технических характеристик, ограничившись анонсом нового дизельного двигателя.  Известно, что Mitsubishi L200 очередного, шестого по счету поколения разделит шасси с Nissan Navara следующей генерации. Трудно сказать, насколько по технической части Mitsubishi L200 будет продуктом инженерии компании, но по стилю оформления кузова ожидается плоть от плоти Mitsubishi с его фирменным оформлением фасада, напоминающем литеру X. ]]></string>
+</resources>
